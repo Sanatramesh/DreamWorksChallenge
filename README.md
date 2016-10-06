@@ -4,7 +4,7 @@
 
 This project was developed to participate in the DreamWorks Animation challenge which was hosted on HackerEarth from 30th Sept 2016 to 7th Oct 2016.
 
-## Running the code
+## Running the Project
 
 1. Download the project locally. Host a local http service.
 Ex: python -m SimpleHTTPServer 8000
@@ -22,7 +22,7 @@ L4: Collision with the ‘Stanford Bunny’
 
 **Video submission:** 
 
-## Chanllenges Faced
+## Challenges Faced
 
 1. It was my first time working with webgl.
 2. Learning Javascript and THREE.js.
