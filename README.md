@@ -26,8 +26,8 @@ L4: Collision with the ‘Stanford Bunny’
 
 1. It was my first time working with webgl.
 2. Learning Javascript and THREE.js.
-3. My system used to hang due to the number of computations. This was resolved by using a octree.js library with THREE.js and raycasting to find the nearest object.
-4. Since I was new to THREE.js, I couldn't resolve issues arising due to the use of different geometry, lighting and materials. 
+3. My system used to hang due to the number of computations. This was resolved by using a octree.js library with THREE.js.
+4. Raycasting was used to determine collisions between sparks and the objects in the scene.
 
 ## Possible Improvements
 
